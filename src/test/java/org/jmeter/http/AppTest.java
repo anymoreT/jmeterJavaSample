@@ -1,4 +1,4 @@
-package org.jmeter.tcp;
+package org.jmeter.http;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
